@@ -30,5 +30,3 @@ Detail page for courses
 8. All validation should be in config and custom validations in controllers
 
 ![School List](https://bitbucket.org/pradeepvish1213/school-assignment/src/master/1.png)
-
-
