@@ -1,0 +1,9 @@
+.custom-padding{
+    padding:10px
+}
+
+ul.typeahead.dropdown-menu a{
+    text-decoration: none;
+    padding-left:15px;
+    color: black 
+}
